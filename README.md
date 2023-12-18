@@ -1,3 +1,3 @@
 newbees_2023 readme
 
-test lohan12
+test lohan12s
